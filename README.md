@@ -45,3 +45,4 @@ Roadmap untuk miniclass game WRI
     - Membuat Game Multiplayer
 10. **Persiapan Membuat Game 3D**
 11. **Membuat Game FPS**
+12. **Membuat Game New**
